@@ -4,9 +4,9 @@
 
 ## datboi212github (datboi212)
 #### FRC 5827 Programming Lead and Sigma Society Full Stack Web Developer
-<hr>
+
 ##### Development Skills (* = Still Learning):
-<br>
+
 1. Back End Web Dev [Flask] <br>
 2. Front End Web Dev [HTML/JS/CSS and maybe React]* <br>
 3. Robotics Programming [WPILib] <br>
