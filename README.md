@@ -5,7 +5,7 @@
 _________________________________________________________________________
 
 ## datboi212github (datboi212)
-#### FRC 5827 Programming Lead and Sigma Society Full Stack Web Developer
+#### FRC 5827 Programming Lead and Sigma Society Full Stack (almost) Web Developer
 
 _________________________________________________________________________
 
