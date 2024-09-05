@@ -5,5 +5,5 @@
 _________________________________________________________________________
 
 Organizations:
-FRC Team 5827 (Programming Lead) -> temp
-SigmaSociety (Hackathon Member) -> https://github.com/TheSigmaSociety
+FRC Team 5827 (Programming Lead) -> temp <br>
+SigmaSociety (Hackathon Member) -> https://github.com/TheSigmaSociety <br>
