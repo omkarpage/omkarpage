@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,ts,vite,md)](https://skillicons.dev)
 
 ## Backend Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,flask,mongodb,mysql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,py)](https://skillicons.dev)
 
 ## Robotics Stack
 [![My Skills](https://skillicons.dev/icons?i=java,gradle)](https://skillicons.dev)
