@@ -3,7 +3,7 @@
 
 - Full stack developer for <a href="https://github.com/TheSigmaSociety">The Sigma Society</a>.
 - Programming Lead for <a href="https://github.com/FRC5827">FRC Team 5827</a>.
-- Website developer for FRC Team 5827: <a href="www.codepurple5827.com">Team Website</a>
+- Website developer for FRC Team 5827: <a href="https://www.codepurple5827.com">Team Website</a>
 
 <hr>
 
