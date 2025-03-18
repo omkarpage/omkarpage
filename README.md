@@ -21,5 +21,5 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarpage&" alt="omkarpage" /></p>
+[![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarpage)](https://github.com/anuraghazra/github-readme-stats)
 
